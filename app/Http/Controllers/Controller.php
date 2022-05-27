@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers\ProductController;
-
+use App\Http\Controllers\ProductController;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Foundation\Validation\ValidatesRequests;
